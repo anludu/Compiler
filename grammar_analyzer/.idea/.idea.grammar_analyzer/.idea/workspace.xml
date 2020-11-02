@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53590ace-2d98-4659-8a46-e4336631c3c1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A9C37662-579A-499A-A4DE-B3C85349280D/2E/Object.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/grammar_analyzer/lexer/Tag.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/lexer/Main.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/grammar/grammar.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/grammar/Parser.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/lexer/program.pas" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/lexer/NewFile1.txt" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/test_cases/input1.txt" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/lexer/Lexer.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/lexer/Program.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/lexer/Token.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/lexer/Word.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/lexer/Number.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jiVE65BvAyG5fyAvUeBV56qAKs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53590ace-2d98-4659-8a46-e4336631c3c1" name="Default Changelist" comment="" />
+      <created>1604286785708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604286785708</updated>
+      <workItem from="1604286815930" duration="14648000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="434" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604325589415">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="434" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1604325589415" />
+    <state x="275" y="96" key="Rider.ProjectTemplateDialog.Size" timestamp="1604286785524">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Rider.ProjectTemplateDialog.Size/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1604286785524" />
+  </component>
+</project>

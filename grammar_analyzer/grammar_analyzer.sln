@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grammar_analyzer", "grammar_analyzer\grammar_analyzer.csproj", "{CE09B555-D9FD-4AEF-B17E-6E40F84DA217}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE09B555-D9FD-4AEF-B17E-6E40F84DA217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE09B555-D9FD-4AEF-B17E-6E40F84DA217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE09B555-D9FD-4AEF-B17E-6E40F84DA217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE09B555-D9FD-4AEF-B17E-6E40F84DA217}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
