@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53590ace-2d98-4659-8a46-e4336631c3c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.grammar_analyzer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grammar_analyzer/Action.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grammar_analyzer/ActionType.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grammar_analyzer/Grammar.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grammar_analyzer/Main.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grammar_analyzer/Parser.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grammar_analyzer/Production.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grammar_analyzer/SyntaxError.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grammar_analyzer/productions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grammar_analyzer/table2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.grammar_analyzer/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.grammar_analyzer/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.grammar_analyzer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.grammar_analyzer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar_analyzer/bin/Debug/netcoreapp3.1/grammar_analyzer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/bin/Debug/netcoreapp3.1/grammar_analyzer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar_analyzer/bin/Debug/netcoreapp3.1/grammar_analyzer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/bin/Debug/netcoreapp3.1/grammar_analyzer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar_analyzer/grammar_analyzer.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/grammar_analyzer.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar_analyzer/lexer/Lexer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/Lexer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar_analyzer/lexer/Number.cs" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/Number.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar_analyzer/lexer/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/lexer/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar_analyzer/lexer/Program.exe" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/lexer/Program.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar_analyzer/lexer/Tag.cs" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/Tag.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar_analyzer/lexer/Token.cs" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/Token.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar_analyzer/lexer/Word.cs" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/Word.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar_analyzer/obj/Debug/netcoreapp3.1/grammar_analyzer.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/obj/Debug/netcoreapp3.1/grammar_analyzer.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar_analyzer/obj/Debug/netcoreapp3.1/grammar_analyzer.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/obj/Debug/netcoreapp3.1/grammar_analyzer.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar_analyzer/obj/Debug/netcoreapp3.1/grammar_analyzer.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/obj/Debug/netcoreapp3.1/grammar_analyzer.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar_analyzer/obj/Debug/netcoreapp3.1/grammar_analyzer.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/obj/Debug/netcoreapp3.1/grammar_analyzer.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar_analyzer/obj/Debug/netcoreapp3.1/grammar_analyzer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/obj/Debug/netcoreapp3.1/grammar_analyzer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar_analyzer/obj/Debug/netcoreapp3.1/grammar_analyzer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/obj/Debug/netcoreapp3.1/grammar_analyzer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar_analyzer/obj/grammar_analyzer.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/obj/grammar_analyzer.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar_analyzer/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar_analyzer/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar_analyzer/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar_analyzer/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/obj/rider.project.restore.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A9C37662-579A-499A-A4DE-B3C85349280D/2E/Object.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/grammar_analyzer/lexer/Tag.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/lexer/Main.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/grammar/grammar.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/lexer/program.pas" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/lexer/NewFile1.txt" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/test_cases/input1.txt" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/lexer/Lexer.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/lexer/Token.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/lexer/Word.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/lexer/Number.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/Program.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/grammar/Parser.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/errors/SyntaxError.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/lexer/Program.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/SyntaxError.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/ActionType.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/Action.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/actions.csv~" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/goto.csv" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/actions.csv" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/table.csv" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/table2.csv" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/Main.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/Production.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/Grammar.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/Tag.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/productions.txt" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/test_cases/Example1.pas" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/Word.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/Token.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/Number.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/Lexer.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/Parser.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jiVE65BvAyG5fyAvUeBV56qAKs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53590ace-2d98-4659-8a46-e4336631c3c1" name="Default Changelist" comment="" />
+      <created>1604286785708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604286785708</updated>
+      <workItem from="1604286815930" duration="14648000" />
+      <workItem from="1604341833160" duration="10977000" />
+      <workItem from="1604623738385" duration="35611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604355389147">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1604355389147" />
+    <state x="434" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604325589415">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="434" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1604325589415" />
+    <state x="275" y="96" key="Rider.ProjectTemplateDialog.Size" timestamp="1604286785524">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Rider.ProjectTemplateDialog.Size/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1604286785524" />
+    <state x="487" y="38" key="RiderGenerateDialog" timestamp="1604891814447">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="487" y="38" key="RiderGenerateDialog/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1604891814447" />
+  </component>
+</project>
