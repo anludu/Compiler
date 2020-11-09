@@ -10,11 +10,7 @@ namespace grammar_analyzer.lexer
         {
             this._value = value;
         }
-	
-        public int GetValue() {
-            return _value;
-        }
-	
+
         public override string ToString() {
             return "number";
         }

@@ -20,39 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53590ace-2d98-4659-8a46-e4336631c3c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.grammar_analyzer/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grammar_analyzer/Action.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grammar_analyzer/ActionType.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grammar_analyzer/Grammar.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grammar_analyzer/Main.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grammar_analyzer/Parser.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grammar_analyzer/Production.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grammar_analyzer/SyntaxError.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grammar_analyzer/productions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grammar_analyzer/table2.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.grammar_analyzer/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.grammar_analyzer/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.grammar_analyzer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.grammar_analyzer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar_analyzer/bin/Debug/netcoreapp3.1/grammar_analyzer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/bin/Debug/netcoreapp3.1/grammar_analyzer.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar_analyzer/bin/Debug/netcoreapp3.1/grammar_analyzer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/bin/Debug/netcoreapp3.1/grammar_analyzer.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar_analyzer/grammar_analyzer.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/grammar_analyzer.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar_analyzer/lexer/Lexer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/Lexer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar_analyzer/lexer/Number.cs" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/Number.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar_analyzer/lexer/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/lexer/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar_analyzer/lexer/Program.exe" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/lexer/Program.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar_analyzer/lexer/Tag.cs" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/Tag.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar_analyzer/lexer/Token.cs" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/Token.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar_analyzer/lexer/Word.cs" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/Word.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar_analyzer/obj/Debug/netcoreapp3.1/grammar_analyzer.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/obj/Debug/netcoreapp3.1/grammar_analyzer.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar_analyzer/obj/Debug/netcoreapp3.1/grammar_analyzer.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/obj/Debug/netcoreapp3.1/grammar_analyzer.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar_analyzer/obj/Debug/netcoreapp3.1/grammar_analyzer.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/obj/Debug/netcoreapp3.1/grammar_analyzer.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar_analyzer/obj/Debug/netcoreapp3.1/grammar_analyzer.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/obj/Debug/netcoreapp3.1/grammar_analyzer.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar_analyzer/obj/Debug/netcoreapp3.1/grammar_analyzer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/obj/Debug/netcoreapp3.1/grammar_analyzer.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar_analyzer/obj/Debug/netcoreapp3.1/grammar_analyzer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/obj/Debug/netcoreapp3.1/grammar_analyzer.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar_analyzer/obj/grammar_analyzer.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/obj/grammar_analyzer.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar_analyzer/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar_analyzer/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar_analyzer/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar_analyzer/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar_analyzer/Main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/Main.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar_analyzer/Number.cs" beforeDir="false" afterPath="$PROJECT_DIR$/grammar_analyzer/Number.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,9 +68,9 @@
         <option value="$PROJECT_DIR$/grammar_analyzer/test_cases/Example1.pas" />
         <option value="$PROJECT_DIR$/grammar_analyzer/Word.cs" />
         <option value="$PROJECT_DIR$/grammar_analyzer/Token.cs" />
-        <option value="$PROJECT_DIR$/grammar_analyzer/Number.cs" />
         <option value="$PROJECT_DIR$/grammar_analyzer/Lexer.cs" />
         <option value="$PROJECT_DIR$/grammar_analyzer/Parser.cs" />
+        <option value="$PROJECT_DIR$/grammar_analyzer/Number.cs" />
       </list>
     </option>
   </component>
@@ -136,7 +106,7 @@
       <updated>1604286785708</updated>
       <workItem from="1604286815930" duration="14648000" />
       <workItem from="1604341833160" duration="10977000" />
-      <workItem from="1604623738385" duration="35611000" />
+      <workItem from="1604623738385" duration="35923000" />
     </task>
     <servers />
   </component>

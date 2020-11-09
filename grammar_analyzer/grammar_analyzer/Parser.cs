@@ -39,7 +39,6 @@ namespace grammar_analyzer
 				using (StreamReader reader = new StreamReader("table2.csv"))
 				{
 					
-					//line = reader.ReadLine();
 					mat = new string[155][];
 					var p = 0;
 					while ((line = reader.ReadLine()) != null)

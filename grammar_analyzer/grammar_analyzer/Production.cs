@@ -16,6 +16,7 @@ namespace grammar_analyzer
         public string GetHead()
         {
             return this._head;
+            return this._head;
         }
 
         public string[] GetBody()

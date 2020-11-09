@@ -6,7 +6,6 @@
     <e p="C:\Users\A01702080\OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey\TEC\Noveno Semestre\Compiladores\Compiler\grammar_analyzer" t="IncludeFlat">
       <e p="grammar_analyzer" t="IncludeRecursive">
         <e p="Action.cs" t="Include" />
-        <e p="actions.csv" t="Include" />
         <e p="ActionType.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="goto.csv" t="Include" />
