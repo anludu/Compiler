@@ -1,0 +1,4 @@
+1. Correr el script para que se instale el compilador
+2. para correr el código escribir los siguientes comandos:
+	A. csc *.cs
+	B. ./Main.exe PATH_DE_TEST_CASES

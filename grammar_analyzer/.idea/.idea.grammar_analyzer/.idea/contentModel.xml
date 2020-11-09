@@ -11,6 +11,7 @@
         <e p="goto.csv" t="Include" />
         <e p="Grammar.cs" t="Include" />
         <e p="grammar_analyzer.csproj" t="IncludeRecursive" />
+        <e p="Indicaciones.txt" t="Include" />
         <e p="lexer" t="Include">
           <e p="Program.cs" t="Include" />
           <e p="Program.exe" t="Include" />
@@ -29,6 +30,7 @@
         <e p="Parser.cs" t="Include" />
         <e p="Production.cs" t="Include" />
         <e p="productions.txt" t="Include" />
+        <e p="script.sh" t="Include" />
         <e p="SyntaxError.cs" t="Include" />
         <e p="table2.csv" t="Include" />
         <e p="Tag.cs" t="Include" />
@@ -36,7 +38,6 @@
           <e p="Example1.pas" t="Include" />
           <e p="Example2.pas" t="Include" />
           <e p="Example3.pas" t="Include" />
-          <e p="input1.txt" t="Include" />
         </e>
         <e p="Token.cs" t="Include" />
         <e p="Word.cs" t="Include" />
