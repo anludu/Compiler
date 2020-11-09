@@ -2,22 +2,24 @@
 {
     public class Token
     {
-        private int tag;
+        private int _tag;
+
 	
         public Token(int tag) {
-            this.tag = tag;
+            this._tag = tag;
+
         }
 	
         public int GetTag() {
-            return tag;
+            return _tag;
         }
-	
+
         public override string ToString() {
-            string s = "TOKEN, symbol = ";
+            string s = "";
 		
-            switch (tag) {
-                case Tag.EOF		: s += "EOF"; break;
-                default				: s += (char) tag; break;
+            switch (_tag) {
+                case Tag.Eof		: s += "EOF"; break;
+                default				: s += (char) _tag; break;
             }
 		
             return s;

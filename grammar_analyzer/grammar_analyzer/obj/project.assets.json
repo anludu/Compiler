@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A01702080\\OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey\\TEC\\Noveno Semestre\\Compiladores\\grammar_analyzer\\grammar_analyzer\\grammar_analyzer.csproj",
+      "projectUniqueName": "C:\\Users\\A01702080\\OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey\\TEC\\Noveno Semestre\\Compiladores\\Compiler\\grammar_analyzer\\grammar_analyzer\\grammar_analyzer.csproj",
       "projectName": "grammar_analyzer",
-      "projectPath": "C:\\Users\\A01702080\\OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey\\TEC\\Noveno Semestre\\Compiladores\\grammar_analyzer\\grammar_analyzer\\grammar_analyzer.csproj",
+      "projectPath": "C:\\Users\\A01702080\\OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey\\TEC\\Noveno Semestre\\Compiladores\\Compiler\\grammar_analyzer\\grammar_analyzer\\grammar_analyzer.csproj",
       "packagesPath": "C:\\Users\\A01702080\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A01702080\\OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey\\TEC\\Noveno Semestre\\Compiladores\\grammar_analyzer\\grammar_analyzer\\obj\\",
+      "outputPath": "C:\\Users\\A01702080\\OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey\\TEC\\Noveno Semestre\\Compiladores\\Compiler\\grammar_analyzer\\grammar_analyzer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\A01702080\\AppData\\Roaming\\NuGet\\NuGet.Config"

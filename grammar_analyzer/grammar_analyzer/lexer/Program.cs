@@ -6,7 +6,7 @@ namespace grammar_analyzer.lexer
 {
     public class Program
     {
-        public static void Main (string[] args){
+        /*public static void Main (string[] args){
             if (args.Length != 1) {
                     Console.WriteLine("usage: C# ConsoleApp file");
                     Environment.Exit(0);
@@ -20,6 +20,6 @@ namespace grammar_analyzer.lexer
                 Console.WriteLine(token.ToString());
                 token = lex.Scan();
             }
-        }
+        }*/
     }
 }
